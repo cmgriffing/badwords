@@ -1,6 +1,6 @@
 {
-  "name": "bad-words",
-  "version": "3.0.3",
+  "name": "beapp/bad-words",
+  "version": "1.0.0",
   "description": "A javascript filter for bad words",
   "main": "./lib/badwords",
   "directories": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/web-mech/badwords.git"
+    "url": "git://github.com/beattv/badwords.git"
   },
   "keywords": [
     "curse",
