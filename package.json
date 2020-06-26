@@ -1,5 +1,5 @@
 {
-  "name": "beapp-bad-words",
+  "name": "cellulelife-bad-words",
   "version": "1.0.2",
   "description": "A javascript filter for bad words",
   "main": "./lib/badwords",
